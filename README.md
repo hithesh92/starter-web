@@ -11,6 +11,8 @@ Sample website with plenty of files for demos
 
 This is sample description
 
+##How to Contribute
+
 ## Deployment
 Deploy in docker
 
