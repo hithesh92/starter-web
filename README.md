@@ -16,3 +16,7 @@ Deploy in docker
 
 ##Conclusion
 You have reached the end of the document
+
+
+
+2014 Copyright Notice Git Training
